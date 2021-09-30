@@ -1,0 +1,16 @@
+C:\Users\DrDea\FibonaciSayisi\bin\Debug\net5.0\FibonaciSayisi.exe
+C:\Users\DrDea\FibonaciSayisi\bin\Debug\net5.0\FibonaciSayisi.deps.json
+C:\Users\DrDea\FibonaciSayisi\bin\Debug\net5.0\FibonaciSayisi.runtimeconfig.json
+C:\Users\DrDea\FibonaciSayisi\bin\Debug\net5.0\FibonaciSayisi.runtimeconfig.dev.json
+C:\Users\DrDea\FibonaciSayisi\bin\Debug\net5.0\FibonaciSayisi.dll
+C:\Users\DrDea\FibonaciSayisi\bin\Debug\net5.0\ref\FibonaciSayisi.dll
+C:\Users\DrDea\FibonaciSayisi\bin\Debug\net5.0\FibonaciSayisi.pdb
+C:\Users\DrDea\FibonaciSayisi\obj\Debug\net5.0\FibonaciSayisi.csproj.AssemblyReference.cache
+C:\Users\DrDea\FibonaciSayisi\obj\Debug\net5.0\FibonaciSayisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrDea\FibonaciSayisi\obj\Debug\net5.0\FibonaciSayisi.AssemblyInfoInputs.cache
+C:\Users\DrDea\FibonaciSayisi\obj\Debug\net5.0\FibonaciSayisi.AssemblyInfo.cs
+C:\Users\DrDea\FibonaciSayisi\obj\Debug\net5.0\FibonaciSayisi.csproj.CoreCompileInputs.cache
+C:\Users\DrDea\FibonaciSayisi\obj\Debug\net5.0\FibonaciSayisi.dll
+C:\Users\DrDea\FibonaciSayisi\obj\Debug\net5.0\ref\FibonaciSayisi.dll
+C:\Users\DrDea\FibonaciSayisi\obj\Debug\net5.0\FibonaciSayisi.pdb
+C:\Users\DrDea\FibonaciSayisi\obj\Debug\net5.0\FibonaciSayisi.genruntimeconfig.cache
