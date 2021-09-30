@@ -19,7 +19,7 @@ namespace FibonaciSayisi
                 a=b;
                 b=toplam;
             }
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
