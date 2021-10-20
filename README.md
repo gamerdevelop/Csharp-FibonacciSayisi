@@ -7,7 +7,7 @@
 
 # ENG
 
-* Visual Studio C#  project that checks whether the number or word entered from the keyboard is a palindrome or not.
+* VS Code c# program that displays fibonacci numbers as much as the number of steps entered.
 * Want to see the codes? Open this file " Palindrom/Program.cs " .
 * To run the project on your own computer, first clone the project and then open it in the VS Code editor.
 * The "C#" plugin must be installed in your VS Code editor for the project to work!
